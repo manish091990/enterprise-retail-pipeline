@@ -39,3 +39,6 @@ Thumbs.db
 
 # Logs
 *.log
+# Allow sample data files
+!data/raw/sample_*.csv
+!data/processed/sample_*.csv
