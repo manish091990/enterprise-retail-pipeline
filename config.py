@@ -35,8 +35,8 @@ COL_DUPLICATE   = "is_duplicate"
 # ---------------------------------------------------------------------------
 CURRENCY_SYMBOL         = "₹"
 PREMIUM_PERCENTILE      = 80          # UnitPrice >= 80th percentile → Premium
-VIP_SPEND_THRESHOLD     = 5_000       # minimum spend to qualify as VIP (₹)
-INACTIVITY_DAYS         = 90          # days without purchase = inactive
+VIP_SPEND_THRESHOLD     = 100         # adjusted to match actual data scale
+INACTIVITY_DAYS         = 60          # adjusted to catch more inactive customers
 VALID_SALE_STATUS       = "Valid Sale"
 RETURN_STATUS           = "Cancellation/Return"
 ERROR_STATUS            = "System Error"
