@@ -160,7 +160,7 @@ python3 scripts/04_kpi_dashboard.py
 ## 👤 Author
 
 **Manish** — Aspiring Data Engineer  
-📧 Connect on [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)  
+📧 Connect on [LinkedIn](https://www.linkedin.com/in/manishkumar-businessanalyst)  
 ⭐ If this project helped you, please give it a star!
 
 ---
